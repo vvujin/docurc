@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Service
 metadata:
-  namespace: docusaurus
+  namespace: goran
   name: docusaurus-service
 spec:
   selector:
